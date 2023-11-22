@@ -1,10 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2018 Dracula Theme
-SPDX-FileCopyrightText: 2023 Javier Pérez
-
-SPDX-License-Identifier: MIT
--->
-
 ### [FontForge](https://fontforge.org)
 
 #### Install using Git
